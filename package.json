@@ -1,0 +1,26 @@
+{
+"name": "cloudytext3dsaqanimation",
+"version": "1.0.0",
+"description": "This project demonstrates a simple 3D animation effect using Three.js library to create cloudy text and switch between two texts. The animation creates a visually appealing transition between the texts.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/Belini22/CloudyText3DAnimation.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "Belini22",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
